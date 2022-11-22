@@ -45,7 +45,7 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 <details>
 <summary>More:</summary>
 
-## 🛠 I have experience with
+## 🛠 I have a little idea
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-yellow?style=flat&logo=javascript&logoColor=white)
