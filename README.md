@@ -126,5 +126,6 @@ I'm using **Python** and **Flask Rest API** for my projects. I'm also interested
 ![IFTTT](https://img.shields.io/badge/IFTTT-black?style=flat&logo=ifttt&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-orange?style=flat&logo=zapier&logoColor=white)
 ![Octoprint](https://img.shields.io/badge/Octoprint-green?style=flat&logo=octoprint&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 </details>
